@@ -15,6 +15,4 @@ Replace the `Custom.css` file in your `"User Stylesheets"` folder. Here is how t
 
 Screenshots
 
-![DOM](url "DOM")
-
-![JS](url "JS")
+![DOM](http://i.imgur.com/9xDVNoa.jpg "DOM")
